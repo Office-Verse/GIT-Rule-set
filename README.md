@@ -168,3 +168,11 @@ git rebase origin/main  # or: git merge origin/main
 
 Happy collaborating! 👨‍💻👩‍💻  
 For help, contact your GitHub lead or open a discussion in the repository.
+
+# Issue Setup
+
+This video highlights how you are going to work with github Issues
+
+https://www.youtube.com/watch?v=TKJ4RdhyB5Y
+
+
